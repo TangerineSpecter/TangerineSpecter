@@ -19,6 +19,8 @@
 # 游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+[![](https://img.shields.io/badge/Epic%20Games-313131?style=flat-square&logo=EpicGames&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+
 
 <!--
 # 访问量
