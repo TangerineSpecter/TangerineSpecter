@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Spring-82BC23?style=flat-square&logo=spring&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-VUE.js-4FC08D?style=flat-square&logo=VUE&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-VUE-4FC08D?style=flat-square&logo=VUE&logoColor=ffffff)](https://reactjs.org/)
 
 # 游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
